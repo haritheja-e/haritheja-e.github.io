@@ -22,7 +22,7 @@ I am interested in developing algorithms for learning generalizable policies and
     <p>Your text goes here. You can write a detailed description or information related to the video.</p>
 </div> -->
 
-<div style="display: flex; align-items: flex-start;">
+<!-- <div style="display: flex; align-items: flex-start;">
     <video width="250" style="margin-right: 20px; margin-top: 5px;" muted autoplay playsinline loop>
         <source src="files/dobb-e-thumbnail.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -37,4 +37,4 @@ I am interested in developing algorithms for learning generalizable policies and
             <a href="https://dobb-e.com" style="padding: 8px 12px; background-color: #e0e0e0; text-decoration: none; border-radius: 3px;">Project Site</a>
         </div>
     </div>
-</div>
+</div> -->
