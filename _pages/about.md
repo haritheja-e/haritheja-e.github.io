@@ -12,7 +12,7 @@ I am a fourth-year undergraduate student majoring in Computer Science and Mathem
 
 I am interested in developing algorithms for learning generalizable policies and in scaling robot learning to the real-world. 
 
-# Research
+<!-- # Research
 
 <div class="content">
     <video class="video" width="250" muted autoplay playsinline loop>
@@ -116,4 +116,4 @@ I am interested in developing algorithms for learning generalizable policies and
             margin-top: 20px; /* Add more space between text and buttons */
         }
     }
-</style>
+</style> -->
