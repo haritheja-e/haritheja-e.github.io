@@ -12,7 +12,7 @@ I am a fourth-year undergraduate student majoring in Computer Science and Mathem
 
 I am interested in developing algorithms for learning generalizable policies and in scaling robot learning to the real-world. 
 
-# Research
+<!-- # Research -->
 
 <!-- <div style="display: flex; align-items: center;">
     <video width="300" controls style="margin-right: 20px;">
@@ -37,4 +37,4 @@ I am interested in developing algorithms for learning generalizable policies and
             <a href="https://dobb-e.com" style="padding: 8px 12px; background-color: #e0e0e0; text-decoration: none; border-radius: 3px;">Project Site</a>
         </div>
     </div>
-</div> -->
+ </div> -->
